@@ -30,7 +30,7 @@ h1 {
     display: flex;
     flex-direction: column;
     min-width: 50px;
-    min-height: 729px;
+    min-height: 600px;
 }
 
 .container-btn {
@@ -43,7 +43,7 @@ h1 {
 .container--section1 {
     background: var(--color-section);
     min-width: 550px;
-    min-height: 258px;
+    min-height: 200px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -52,7 +52,7 @@ h1 {
 }
 .container--section2 {
     min-width: 550px;
-    min-height: 471px;
+    min-height: 400px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -65,7 +65,7 @@ h1 {
 background: var(--color-unitsection);
 color: #CCC1FF;
 min-width: 500px;
-min-height: 108px;
+min-height: 90px;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -73,5 +73,9 @@ flex-direction: column;
 font-size: 10px;
 }
 
+#ul-el {
+    font-size: 20px;
+    padding: 10px;
+}
 
 
